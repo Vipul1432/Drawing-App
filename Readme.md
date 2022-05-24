@@ -1,6 +1,6 @@
 #Drawing App
 
-FOr Live Demo [Click here...](https://vipul1432.github.io/Drawing-App/)
+For Live Demo [Click here...](https://vipul1432.github.io/Drawing-App/)
 
 #landing Page.........
 
